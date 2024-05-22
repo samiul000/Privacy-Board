@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #7bcafe, #5f84ff);
+    margin: 0;
+    padding: 20px;
+}
+  
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.tracker, .cookie {
+  margin-bottom: 10px;
+}
+
+
+
+  
