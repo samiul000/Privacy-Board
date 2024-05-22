@@ -9,14 +9,6 @@ Privacy Manager is a Chrome extension that scans websites for trackers, cookies,
 - **Real-time Updates:** Continuously monitor websites for changes in tracking behavior and update the reports accordingly.
 - **Customizable Settings:** Customize the extension's behavior and preferences through the options page.
 
-## Installation
-
-To install Privacy Manager, follow these steps:
-
-1. Go to the [Chrome Web Store](https://chrome.google.com/webstore) and search for "Privacy Manager".
-2. Click on the "Add to Chrome" button to install the extension.
-3. Once installed, the Privacy Manager icon will appear in the Chrome toolbar.
-
 ## Usage
 
 1. Click on the Privacy Manager icon in the Chrome toolbar to open the extension.
